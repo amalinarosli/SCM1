@@ -1,1 +1,2 @@
-# SCM1
+# This is our SCM project tools
+
